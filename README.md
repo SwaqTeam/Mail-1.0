@@ -1,5 +1,5 @@
 # Mail-1.0
-Mail API For Sending Custom Mail To Users.
+Open Source Mail API For Sending Custom Mail To Users.
 ## How to use the API
 Send a post request to this endPoint: https://mail-v1.herokuapp.com/sendMail
 Your data should be in JSON format
